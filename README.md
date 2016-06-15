@@ -16,7 +16,7 @@ Paste this script in your footer.
 ```
 <section id="pixelicone">
 	<a href="https://www.iconeinternet.com.br" rel="follow">
-		<img src="http://yoursite.com/images/pixelicone.png" alt="Agência de Publicidade e Criação de Sites Ícone Cascavel">
+		<img src="https://www.iconeinternet.com.br/pixel.png" alt="Agência de Publicidade e Criação de Sites Ícone Cascavel">
 	</a>
 </section>
 ```
